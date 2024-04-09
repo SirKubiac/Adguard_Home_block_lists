@@ -1,13 +1,13 @@
-@@||dns.sb^
-@@||family.adguard-dns.com^
+||dns.sb^
+||family.adguard-dns.com^
 # Samsung McAfee
-@@||mup.amp.mcafee.com^
-@@||mmfiles.amp.mcafee.com^
+||mup.amp.mcafee.com^
+||mmfiles.amp.mcafee.com^
 # Peugeot App
-@@||account.services-store.peugeot.com^
-@@||collect.igodigital.com^
+||account.services-store.peugeot.com^
+||collect.igodigital.com^
 #Skype
-@@||pipe.aria.microsoft.com^
+||pipe.aria.microsoft.com^
 #Windows
-@@||settings-win.data.microsoft.com^
-@@||settings.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||settings.data.microsoft.com^
