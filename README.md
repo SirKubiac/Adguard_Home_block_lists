@@ -1,5 +1,2 @@
-# Blocklist for the Sophos XG firewall
-Blocklists formated for Sophos XG categories. 
-Comments and other symbols removed. Only the domains are left.
-No Whatsapp or Instagram domains.
-Instagram may still be blocked sometimes, because it uses some of the Facebook domains too.
+# Blocklist for Adguard Home
+Custom block lists for Adguard Home.
